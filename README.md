@@ -26,3 +26,6 @@ Analyze sales data to identify regional, category-wise, and seasonal trends.
 - Optimize pricing for Furniture
 - Prepare inventory for Q4 demand
 - Track profit margins alongside sales
+
+Executive Summary Superstore Dashboard( Note : View in Full Screen) : 
+https://public.tableau.com/views/ExecutiveSummary-SuperStoreSalesAnalysis/SuperSoreDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
